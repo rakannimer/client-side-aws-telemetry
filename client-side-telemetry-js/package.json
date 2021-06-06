@@ -1,0 +1,18 @@
+{
+  "name": "client-side-telemetry-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-amplify/analytics": "^5.0.1",
+    "@aws-amplify/auth": "^4.0.1",
+    "@aws-sdk/client-cloudwatch-logs": "^3.18.0",
+    "@aws-sdk/types": "^3.18.0"
+  }
+}

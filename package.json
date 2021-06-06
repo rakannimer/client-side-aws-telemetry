@@ -1,0 +1,17 @@
+{
+  "name": "client-side-telemetry",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "workspaces": [
+    "client-side-telemetry-js",
+    "client-side-telemetry-cdk",
+    "client-side-telemetry-js-example"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
